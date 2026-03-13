@@ -60,7 +60,7 @@ CLIP: We injected LoRA adapters ($r=8, \alpha=32$) into the attention layers ($W
 | Negation           | 60.0%             | 91.5%                | +31.5%      |
 | Numeracy           | 31.3%             | 58.7%                | +27.4%      |
 | Attribute Binding  | 58.7%             | 88.0%                | +29.3%      |
-| Spatial Relations  | 50.0%             | 100.0%               | +46.0%      |
+| Spatial Relations  | 54.0%             | 100.0%               | +46.0%      |
 
 
 
